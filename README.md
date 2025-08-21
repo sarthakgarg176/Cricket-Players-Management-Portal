@@ -3,9 +3,9 @@
 A C-based text application to manage cricket players using structures.  
 
 Features:
-- Add, update, and track players  
-- Change status: fit, injured, retired  
-- Filter by country, match format, or contract  
-- Keep track of total players  
+1. Add, update, and track players  
+2. Change status: fit, injured, retired  
+3. Filter by country, match format, or contract  
+4. Keep track of total players  
 
 A modular, menu-driven project showcasing structured data management in C.
