@@ -1,4 +1,11 @@
 #Cricket-Players-Management-Portal
 
-Cricket Management Portal is a C-based text application managing player info via structures. It supports adding, updating, filtering players by country,
-format, or contract, changing status, and tracking total players. Modular, menu-driven, no external libraries used.
+A C-based text application to manage cricket players using structures.  
+
+Features:
+- Add, update, and track players  
+- Change status: fit, injured, retired  
+- Filter by country, match format, or contract  
+- Keep track of total players  
+
+A modular, menu-driven project showcasing structured data management in C.
